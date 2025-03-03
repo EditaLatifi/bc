@@ -98,11 +98,14 @@ MrBurger</h4>
 
 
     <div class="flex justify-center mb-[21px]  items-center gap-[40px] ">
-    <img src="/images/Rectangle 5 (1).png" alt="BC Prague" class="w-[81px] h-[81px] object-cover"></img>
+       <a href="https://wolt.com/cs/cze/prague/restaurant/mrburger-by-bc" target="_blank" rel="noopener noreferrer">
+  <img src="/images/Rectangle 5 (1).png" alt="BC Czech Republic" class="w-[81px] h-[81px] object-cover" />
+</a>
+
     <div class="w-px h-[40px] bg-black"></div>
-
-    <img src="/images/Rectangle 4 (1).png" alt="BC Prague" class="w-[81px] h-[81px] object-cover"></img>
-
+    <a href="https://food.bolt.eu/en-US/271-prague/p/64495-mrburger-by-b%26c" target="_blank" rel="noopener noreferrer">
+    <img src="/images/Rectangle 4 (1).png" alt="BC Czech Republic" class="w-[81px] h-[81px] object-cover"></img>
+</a>
     </div>
   </div>
  <div className="flex space-x-[25px] justify-center items-center px-4 lg:px-0">
@@ -173,7 +176,7 @@ Our partly menu is already available online, so give it a try </p>
 </a>
 
     <div class="w-px h-[40px] bg-black"></div>
-    <a href="https://food.bolt.eu/en-US/271-prague/p/64495-mrburger-by-b%26c" target="_blank" rel="noopener noreferrer">
+    <a href="https://food.bolt.eu/en-US/271/p/124743-pizzaiolo-by-b%26c" target="_blank" rel="noopener noreferrer">
     <img src="/images/Rectangle 4 (1).png" alt="BC Czech Republic" class="w-[81px] h-[81px] object-cover"></img>
 </a>
     </div>
