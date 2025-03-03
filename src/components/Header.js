@@ -18,11 +18,11 @@ export default function Header() {
         <div className="flex space-x-[20px]">
           <div className="flex flex-row space-x-1">     
             <Image src="/icons/Component 1 (1).svg" width={16} height={16} alt="Email" />      
-            <a href="https://www.instagram.com/Pizzaiolo" target="_blank" className="text-[14px] font-[400] text-[#FFFFFFF2]">Pizzaiolo</a>
+            <a href="https://www.instagram.com/pizzaiolobybc?igsh=MXIzMHFyYTJnbDd0ag==" target="_blank" className="text-[14px] font-[400] text-[#FFFFFFF2]">Pizzaiolo</a>
             </div>
           <div className="flex flex-row space-x-1">     
           <Image src="/icons/Component 1 (1).svg" width={16} height={16} alt="Email" />
-          <a href="https://www.instagram.com/MrBurger" target="_blank" className="text-[14px] font-[400] text-[#FFFFFFF2]">MrBurger</a>
+          <a href="https://www.instagram.com/mrburgerbybc?igsh=MXE1aGRrd2sydWNoeg==" target="_blank" className="text-[14px] font-[400] text-[#FFFFFFF2]">MrBurger</a>
           </div>
         </div>
       </div>
