@@ -15,7 +15,7 @@ const schemaData = {
     "addressCountry": "Czech Republic"
   },
   "telephone": "+420 736 700 880",
-  "url": "https://by-bc.com.com",
+  "url": "https://by-bc.com",
   "image": "https://by-bc.com/images/B&C.png"
 };
 
@@ -25,12 +25,12 @@ export default function Home() {
     <div>
       <Head>
       <title>B&C - Be Brave and Creative</title>
-      <meta name="description" content="MrBurger and Pizzaiolo by B&C" />
+      <meta name="description" content="MrBurger and Pizzaiolo - Delicious Burgers & Pizza Delivered Fresh!" />
       <meta name="robots" content="index, follow" />
-      <meta property="og:title" content="MrBurger and Pizzaiolo - Delicious Burgers & Pizza Delivered Fresh!" />
-      <meta property="og:description" content="MrBurger and Pizzaiolo by B&C" />
+      <meta property="og:title" content="MrBurger and Pizzaiolo by B&C" />
+      <meta property="og:description" content="MrBurger and Pizzaiolo - Delicious Burgers & Pizza Delivered Fresh!" />
       <meta property="og:image" content="https://by-bc.com/images/B&C.png" />
-      <meta property="og:url" content="https://by-bc.com.com" />
+      <meta property="og:url" content="https://by-bc.com" />
         <script type="application/ld+json">{JSON.stringify(schemaData)}</script>
       </Head>
       <Header />
