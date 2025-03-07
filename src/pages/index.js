@@ -25,10 +25,10 @@ export default function Home() {
     <div>
       <Head>
       <title>B&C - Be Brave and Creative</title>
-      <meta name="description" content="Enjoy the best burgers in town. Freshly made, juicy, and served with friendly service. Visit us for an unforgettable burger experience." />
+      <meta name="description" content="MrBurger and Pizzaiolo by B&C" />
       <meta name="robots" content="index, follow" />
-      <meta property="og:title" content="MrBurger - Delicious Burgers Delivered Fresh" />
-      <meta property="og:description" content="Enjoy the best burgers in town. Freshly made, juicy, and served with friendly service. Visit us for an unforgettable burger experience." />
+      <meta property="og:title" content="MrBurger and Pizzaiolo - Delicious Burgers & Pizza Delivered Fresh!" />
+      <meta property="og:description" content="MrBurger and Pizzaiolo by B&C" />
       <meta property="og:image" content="https://by-bc.com/images/B&C.png" />
       <meta property="og:url" content="https://by-bc.com.com" />
         <script type="application/ld+json">{JSON.stringify(schemaData)}</script>
