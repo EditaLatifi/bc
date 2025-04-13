@@ -12,7 +12,7 @@ export default function Header() {
             </div>
           <div className="flex items-center space-x-1">
             <Image src="/icons/Symbol (1).svg" width={16} height={16} alt="Phone" />
-            <a href="tel:+420736700880" className="text-[14px] font-[400] text-[#FFFFFFF2]">+420 736 700 880</a>
+            <a href="tel:+420736700880" className="hidden text-[14px] font-[400] text-[#FFFFFFF2]">+420 736 700 880</a>
             </div>
         </div>
         <div className="flex space-x-[20px]">
