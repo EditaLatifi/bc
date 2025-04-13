@@ -171,7 +171,7 @@ Pizzaiolo</h4>
 Our partly menu is already available online, so give it a try </p>
 
     <div class="flex justify-center mb-[21px]  items-center gap-[40px] ">
-    <a href="https://wolt.com/cs/cze/prague/restaurant/mrburger-by-bc" target="_blank" rel="noopener noreferrer">
+    <a href="https://wolt.com/cs/cze/prague/restaurant/pizzaiolo12" target="_blank" rel="noopener noreferrer">
   <img src="/images/Rectangle 5 (1).png" alt="BC Czech Republic" class="w-[81px] h-[81px] object-cover" />
 </a>
 
