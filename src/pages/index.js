@@ -84,9 +84,13 @@ export default function Home() {
 <section className="lg:mb-[170px] mb-[100px]">
 <div class="flex flex-wrap justify-center items-center gap-[25px] max-w-[1280px] mx-auto p-4">
   <div class="flex flex-col items-center lg:p-[80px] p-4 border border-black w-[370px] lg:w-[560px] h-[630px] flex-shrink-0">
-  <h3 class="text-[#141414] mb-[21px] text-center text-[15px] font-semibold leading-[20px] uppercase font-[Montserrat]">
-  Follow us on instagram
+ <h3 class="text-[#141414] mb-[21px] text-center text-[15px] font-semibold leading-[20px] uppercase font-[Montserrat]">
+  Reserve a table
 </h3>
+<a href="tel:+420775093074" class="text-[#141414] mb-[21px] text-center text-[15px] font-semibold leading-[20px] uppercase font-[Montserrat] block">
+  +420 775 093 074
+</a>
+
 <h4 class="text-[#1B2C3D] mb-[21px]  text-center text-[45px] font-normal leading-[56px] font-[Bellefair]">
 MrBurger</h4>
 
