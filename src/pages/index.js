@@ -85,7 +85,7 @@ export default function Home() {
 <div class="flex flex-wrap justify-center items-center gap-[25px] max-w-[1280px] mx-auto p-4">
   <div class="flex flex-col items-center lg:p-[80px] p-4 border border-black w-[370px] lg:w-[560px] h-[630px] flex-shrink-0">
  <h3 class="text-[#141414] mb-[11px] text-center text-[16px] font-semibold leading-[20px] uppercase font-[Montserrat]">
-  Reserve a table
+  Contact
 </h3>
 <a href="tel:+420775093074" class="text-[#141414] mb-[21px] text-center text-[16px] font-semibold leading-[20px] uppercase font-[Montserrat] block">
   +420 775 093 074
@@ -159,7 +159,7 @@ MrBurger</h4>
 </div>
   <div class="flex flex-col items-center lg:p-[80px] p-4 border border-black w-[370px] lg:w-[560px] h-[630px] flex-shrink-0">
  <h3 class="text-[#141414] mb-[11px] text-center text-[16px] font-semibold leading-[20px] uppercase font-[Montserrat]">
-  Reserve a table
+  Contact
 </h3>
 <a href="tel:+420 606 092 130" class="text-[#141414] mb-[21px] text-center text-[16px] font-semibold leading-[20px] uppercase font-[Montserrat] block">
   +420 606 092 130
